@@ -70,8 +70,10 @@ Initially , to solve this problem statement, we tried implementing simply OCR mo
 ├── product_image_dataset.py 
 ├── utils.py
 ├── requirements.txt
+├── amazonml24(4).ipynb
 └── README.md  # This file
 ```
+amazonml24(4).ipynb : Contains the entire code written and executed on a kaggle environment.
 main.py: Contains the main functionality for loading the dataset, preprocessing images, detecting text, and extracting values.
 product_image_dataset.py: Defines the ProductImageDataset class for loading and transforming images.
 utils.py: Includes utility functions for text processing, image manipulation, image download etc.
