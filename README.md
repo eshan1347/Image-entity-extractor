@@ -69,6 +69,7 @@ Initially , to solve this problem statement, we tried implementing simply OCR mo
 ├── main.py  # Main project script
 ├── product_image_dataset.py 
 ├── utils.py
+├── requirements.txt
 └── README.md  # This file
 ```
 main.py: Contains the main functionality for loading the dataset, preprocessing images, detecting text, and extracting values.
